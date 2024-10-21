@@ -1,7 +1,6 @@
 Professor Marcos Pacheco
 
-Criando um Game Avançado com a Unreal Engine e Blueprints
-
+Curso: Criando um Game Avançado com a Unreal Engine e Blueprints, 
 [Disponível na Udemy Clique Aqui!](https://www.udemy.com/course/unreal-4-blueprints-criando-o-game-swat-combat-street-war/?referralCode=B12AF106E013A5586EEC)
 
 Oi Tudo bem com você? Espero que sim!  
